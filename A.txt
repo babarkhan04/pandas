@@ -1,0 +1,2 @@
+
+['and', 'an', 'a', 'and', 'a', 'also', 'and', 'Aldus', 'a', 'a', 'a', 'at', 'a', 'as', 'and', 'as', 'and', 'a', 'accident', 'and']
